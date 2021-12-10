@@ -1,0 +1,59 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(23, 26, 24);
+}
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+header {
+  /* background-color: black; */
+}
+h1 {
+  color: white;
+  word-spacing: 10px;
+  text-transform: capitalize;
+  letter-spacing: 3px;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+
+/* article one start */
+
+
+.art-flex {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.art-span {
+  color: rgb(227, 82, 71);
+  text-transform: capitalize;
+  font-size: 26px;
+  font-weight: 700;
+  margin: 60px 0;
+}
+.art-span2 {
+  color: white;
+  font-size: 22px;
+  font-weight: 600;
+  margin: 60px 0;
+}
+.art-p {
+  margin: 30px 0;
+  line-height: 1.5;
+  color: rgb(153, 145, 123);
+  word-spacing: 3px;
+  font-size: 20px;
+}
+
+/* article two start */
+
+h2 {
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
